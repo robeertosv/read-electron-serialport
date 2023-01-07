@@ -1,0 +1,20 @@
+{
+  "name": "read-electron.serialport",
+  "version": "1.0.0",
+  "description": "Read serialport data and display it on a web usong Node.js",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:robeertosv/read-electron-serialport"
+  },
+  "author": "robeertosv",
+  "license": "CC0-1.0",
+  "dependencies": {
+    "electron": "^22.0.0",
+    "serialport": "^10.5.0"
+  }
+}
