@@ -22,16 +22,12 @@ npm install
 # Run the app
 npm start
 ```
-Edit ```bash
-src/views/script.js
-```
+
 ```bash
 # Change the path to yours
 path: 'COM5' // You may use other
 # Change the BaudRate
 baudRate: 9600 // You may use other
-
-```
 
 
 Learn more about Electron and its API in the [documentation](http://electron.atom.io/docs/).
