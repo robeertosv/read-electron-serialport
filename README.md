@@ -22,7 +22,9 @@ npm install
 # Run the app
 npm start
 ```
-Edit ```bash
+Edit 
+```bash
+#Path
 src/views/script.js
 ```
 ```bash
